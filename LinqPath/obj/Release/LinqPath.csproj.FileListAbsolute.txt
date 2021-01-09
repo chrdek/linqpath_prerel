@@ -1,4 +1,0 @@
-C:\Users\standarduser\Downloads\ExporterUtility\LinqPath\bin\Release\LinqPath.dll
-C:\Users\standarduser\Downloads\ExporterUtility\LinqPath\bin\Release\LinqPath.pdb
-C:\Users\standarduser\Downloads\ExporterUtility\LinqPath\obj\Release\LinqPath.dll
-C:\Users\standarduser\Downloads\ExporterUtility\LinqPath\obj\Release\LinqPath.pdb

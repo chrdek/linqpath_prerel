@@ -1,8 +1,0 @@
-C:\Users\standarduser\Source\Repos\linqpath_prerel\LinqPath\obj\Release\net462\LinqPath.csprojAssemblyReference.cache
-C:\Users\standarduser\Source\Repos\linqpath_prerel\LinqPath\obj\Release\net462\LinqPath.csproj.CoreCompileInputs.cache
-C:\Users\standarduser\Source\Repos\linqpath_prerel\LinqPath\obj\Release\net462\LinqPath.AssemblyInfoInputs.cache
-C:\Users\standarduser\Source\Repos\linqpath_prerel\LinqPath\obj\Release\net462\LinqPath.AssemblyInfo.cs
-C:\Users\standarduser\Source\Repos\linqpath_prerel\LinqPath\bin\Release\net462\LinqPath.dll
-C:\Users\standarduser\Source\Repos\linqpath_prerel\LinqPath\bin\Release\net462\LinqPath.pdb
-C:\Users\standarduser\Source\Repos\linqpath_prerel\LinqPath\obj\Release\net462\LinqPath.dll
-C:\Users\standarduser\Source\Repos\linqpath_prerel\LinqPath\obj\Release\net462\LinqPath.pdb
