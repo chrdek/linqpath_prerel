@@ -1,2 +1,2 @@
 # linqpath_prerel
-Create complicated folder structures using Linq
+Create folder structures using Linq
