@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>library</OutputType>
+    <TargetFramework>net462</TargetFramework>
+    <PackageId>LinqPath</PackageId>
+    <Version>1.2.3</Version>
+    <Authors>chr dek.</Authors>
+    <Company>Internet</Company>
+    <PackageDescription>Object to Folder structure creator using Linq</PackageDescription>
+    <RepositoryUrl>https://github.com/chrdek/linqpath_prerel</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>

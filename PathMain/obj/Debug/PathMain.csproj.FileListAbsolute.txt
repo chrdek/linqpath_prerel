@@ -1,0 +1,5 @@
+C:\Users\standarduser\Downloads\ExporterUtility - Copy\PathMain\bin\Debug\PathMain.dll
+C:\Users\standarduser\Downloads\ExporterUtility - Copy\PathMain\bin\Debug\PathMain.pdb
+C:\Users\standarduser\Downloads\ExporterUtility - Copy\PathMain\obj\Debug\PathMain.csproj.CoreCompileInputs.cache
+C:\Users\standarduser\Downloads\ExporterUtility - Copy\PathMain\obj\Debug\PathMain.dll
+C:\Users\standarduser\Downloads\ExporterUtility - Copy\PathMain\obj\Debug\PathMain.pdb
