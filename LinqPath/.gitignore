@@ -7,7 +7,6 @@ nuget.config
 /obj/
 /bin/Release
 /bin/Release/net462/*.*
-/bin/Debug/net462/*.*
 /lib/
 /Releases/
 *.nupkg
