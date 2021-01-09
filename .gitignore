@@ -1,0 +1,5 @@
+nuget.exe
+*.exe
+*.nuspec
+*.png
+*.ico
