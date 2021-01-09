@@ -1,8 +1,11 @@
 nuget.exe
+nuget.config
 *.exe
 *.nuspec
 *.png
 *.ico
-/obj
-/bin
+/obj/*/*
+/bin/*/*
+/lib/*/*
 *.nupkg
+*.config
