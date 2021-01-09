@@ -1,5 +1,4 @@
 queries:
-  - exclude: "*"
   - include:           
       tags:
         - "security"
