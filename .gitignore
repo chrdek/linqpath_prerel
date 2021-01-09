@@ -3,3 +3,6 @@ nuget.exe
 *.nuspec
 *.png
 *.ico
+/obj
+/bin
+*.nupkg
