@@ -1,0 +1,12 @@
+C:\Users\standarduser\Downloads\ExporterUtility\LinqPath\bin\Debug\LinqPath.dll
+C:\Users\standarduser\Downloads\ExporterUtility\LinqPath\bin\Debug\LinqPath.pdb
+C:\Users\standarduser\Downloads\ExporterUtility\LinqPath\obj\Debug\LinqPath.csprojAssemblyReference.cache
+C:\Users\standarduser\Downloads\ExporterUtility\LinqPath\obj\Debug\LinqPath.csproj.CoreCompileInputs.cache
+C:\Users\standarduser\Downloads\ExporterUtility\LinqPath\obj\Debug\LinqPath.dll
+C:\Users\standarduser\Downloads\ExporterUtility\LinqPath\obj\Debug\LinqPath.pdb
+C:\Users\standarduser\Downloads\ExporterUtility - Copy\LinqPath\bin\Debug\LinqPath.dll
+C:\Users\standarduser\Downloads\ExporterUtility - Copy\LinqPath\bin\Debug\LinqPath.pdb
+C:\Users\standarduser\Downloads\ExporterUtility - Copy\LinqPath\obj\Debug\LinqPath.csproj.CoreCompileInputs.cache
+C:\Users\standarduser\Downloads\ExporterUtility - Copy\LinqPath\obj\Debug\LinqPath.dll
+C:\Users\standarduser\Downloads\ExporterUtility - Copy\LinqPath\obj\Debug\LinqPath.pdb
+C:\Users\standarduser\Downloads\ExporterUtility - Copy\LinqPath\obj\Debug\LinqPath.csprojAssemblyReference.cache
