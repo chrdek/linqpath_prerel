@@ -4,9 +4,9 @@ nuget.config
 *.nuspec
 *.png
 *.ico
-/obj
+/obj/
 /bin/Release
-/lib
-/Releases
+/lib/
+/Releases/
 *.nupkg
 *.config
