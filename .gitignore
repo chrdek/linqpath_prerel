@@ -5,7 +5,7 @@ nuget.config
 *.png
 *.ico
 /obj/
-/bin/
+/bin/Release
 /lib/
 /Releases/
 *.nupkg
