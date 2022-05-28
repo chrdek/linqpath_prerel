@@ -15,5 +15,5 @@ Create folder structures using Linq
 <br/>
 This nuget package is used to create various folder layouts for your C# applications/projects.
 
-Online project located at [nuget gallery.]([https://nuget.org/](https://www.nuget.org/packages/LinqPath/))
+Online project located at [nuget gallery.]([https://nuget.org/](https://www.nuget.org/packages/LinqPath/)
 
