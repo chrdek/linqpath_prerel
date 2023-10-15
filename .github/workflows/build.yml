@@ -50,5 +50,5 @@ jobs:
           dotnet tool install --global dotnet-coverage
           .\.sonar\scanner\dotnet-sonarscanner begin /k:"chrdek_linqpath_prerel" /o:"chrdek" /d:sonar.token="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io"
           dotnet restore ./linqpath_prerel/ExporterUtility.sln
-          dotnet build ./LinqDataCalc/ExporterUtility.sln --configuration Debug
+          dotnet build ./linqpath_prerel/ExporterUtility.sln --configuration Debug
           .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.token="${{ secrets.SONAR_TOKEN }}"
