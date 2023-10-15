@@ -1,6 +1,7 @@
 nuget.exe
 nuget.config
 *.exe
+*.bat
 *.nuspec
 *.png
 *.ico
