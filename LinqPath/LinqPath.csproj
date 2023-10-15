@@ -30,15 +30,25 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
    <PropertyGroup>
-    <OutputType>dll</OutputType>
-    <TargetFramework>net462</TargetFramework>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net461</TargetFramework>
     <PackageId>LinqPath</PackageId>
     <Version>1.2.3</Version>
     <Authors>chr dek.</Authors>
     <Company>Internet</Company>
     <PackageDescription>Object to Folder structure creator using Linq</PackageDescription>
     <RepositoryUrl>https://github.com/chrdek/linqpath_prerel</RepositoryUrl>
+    <ApplicationIcon />
+    <StartupObject />
   </PropertyGroup>
+   <ItemGroup>
+     <Compile Remove="Properties\AssemblyInfo.cs" />
+   </ItemGroup>
+   <ItemGroup>
+     <None Include="Properties\AssemblyInfo.cs">
+       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+     </None>
+   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -49,10 +59,10 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
   </ItemGroup>
-  <ItemGroup>
+  <!--<ItemGroup>
     <Compile Include="LinqPath.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
+  </ItemGroup>-->
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
