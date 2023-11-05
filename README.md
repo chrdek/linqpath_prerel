@@ -6,6 +6,7 @@
 | [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=chrdek_linqpath_prerel&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=chrdek_linqpath_prerel) |
 | [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=chrdek_linqpath_prerel&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=chrdek_linqpath_prerel) |
 | ![Nuget](https://img.shields.io/nuget/dt/LinqPath?logo=nuget) |
+| ![🌐 Global Status](https://status.nuget.org/) |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
